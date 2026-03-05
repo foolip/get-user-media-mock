@@ -50,12 +50,12 @@ Type information uses TypeScript format. Types can be searched in the repository
 
 Polyfills and transpiling(Babel, etc.) should be done outside of this library.
 
-* [https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/captureStream](HTMLCanvasElement.captureStream)
-* [https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/captureStream](HTMLMediaElement.captureStream)
+* [HTMLCanvasElement.captureStream](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/captureStream)
+* [HTMLMediaElement.captureStream](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/captureStream)
 
 ## Dependencies
 
-* [https://github.com/meenie/band.js](band.js - MIT)
+* [band.js - MIT](https://github.com/meenie/band.js)
 
 ## Test
 
@@ -70,5 +70,6 @@ Test Media are included for testing AND possibly mocking.
 These media are not heavily depended on, so can be changed or removed if important.
 If using build tools, the sizes should not be an issue. If there is an issue when building please contact.
 
-* [http://freemusicarchive.org/music/Tequila_Moonrise/Best_Of__Pick_Your_Player/Tequila_Moonrise](Music - Public Domain Best_Of_-_Pick_Your_Player_-_09_Tequila_Moonrise)
-* [https://videos.pexels.com/videos/video-of-people-walking-855564](Video - CC0 License)
+* [Music - Public Domain Best_Of_-_Pick_Your_Player_-_09_Tequila_Moonrise](http://freemusicarchive.org/music/Tequila_Moonrise/Best_Of__Pick_Your_Player/Tequila_Moonrise)
+* [Video - CC0 License](https://videos.pexels.com/videos/video-of-people-walking-855564)
+
